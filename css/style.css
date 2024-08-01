@@ -172,13 +172,14 @@ div .hero {
 .icon-svg {
     margin-top: 50px;
     display: flex;
-    gap: 20px; 
-    align-items: center; 
+    gap: 20px;
+    align-items: center;
 }
 
 .icon-svg a {
-    display: block; 
+    display: block;
 }
+
 .youtube {
     width: 45px;
 }
@@ -193,7 +194,7 @@ div .hero {
 }
 
 .icon-svg img:hover {
-    transform: scale(1.1); 
+    transform: scale(1.1);
 }
 
 /* footer */
